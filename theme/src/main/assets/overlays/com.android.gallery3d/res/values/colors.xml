@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/bl</color>
+    <color name="primary_dark">@*common:color/bl</color>
+    <color name="accent">@*common:color/sk</color>
+    <color name="default_background">@*common:color/bl</color>
+    <color name="material_blue_grey_950">@*common:color/bl</color>
+    <color name="photo_background">@*common:color/bl</color>
+    <color name="album_background">@*common:color/bl</color>
+    <color name="photo_placeholder">@*common:color/bl</color>
+    <color name="cache_background">@*common:color/bl</color>
+    <color name="cache_placeholder">@*common:color/bl</color>
+    <color name="albumset_background">@*common:color/bl</color>
+    <color name="albumset_label_background">@*common:color/bl</color>
+    <color name="albumset_label_title">@*common:color/wh</color>
+    <color name="text_toolbar">#ffffffff</color>
+    <color name="wh">@*common:color/wh</color>
+</resources>

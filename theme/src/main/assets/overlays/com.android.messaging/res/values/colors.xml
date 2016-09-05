@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="compose_notification_bar_background">@*common:color/bl</color>
+    <color name="material_deep_teal_200">@*common:color/sk</color>
+    <color name="material_deep_teal_500">@*common:color/sk</color>
+    <color name="material_blue_grey_800">@*common:color/bl</color>
+    <color name="accent_material_dark">@*common:color/sk</color>
+    <color name="material_blue_grey_900">@*common:color/bl</color>
+    <color name="unblock_item_text_color">@*common:color/wh</color>
+    <color name="accent_material_light">@*common:color/sk</color>
+    <color name="switch_thumb_normal_material_dark">@*common:color/sk</color>
+    <color name="switch_thumb_normal_material_light">@*common:color/sk</color>
+    <color name="color_filter_base_color">@*common:color/bl</color>
+    <color name="compose_message_send_color">@*common:color/wh</color>
+    <color name="text_highlight_color">@*common:color/gr</color>
+    <color name="primary_color">@*common:color/bl</color>
+    <color name="message_image_selected_tint">@*common:color/sk</color>
+    <color name="archived_conversation_action_bar_background_color">@*common:color/bl</color>
+    <color name="archived_conversation_action_bar_background_color_dark">@*common:color/bl</color>
+
+
+    <color name="primary_text_color">@*common:color/wh</color>
+    <color name="secondary_text_color">@*common:color/sk</color>
+    <color name="section_header_text_color">@*common:color/wh</color>
+    <color name="primary_text_default_material_light">@*common:color/wh</color>
+    <color name="secondary_text_default_material_light">@*common:color/sk</color>
+    <color name="primary_text_default_material_dark">@*common:color/wh</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+    <color name="primary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="primary_text_disabled_material_dark">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_dark">@*common:color/gr</color>
+    <color name="compose_message_edit_text">@*common:color/wh</color>
+    <color name="compose_message_text_counter">@*common:color/sk</color>
+    <color name="compose_message_text_color">@*common:color/wh</color>
+    <color name="compose_message_sent_bubble_color">@*common:color/bl</color>
+    <color name="background">@*common:color/bl</color>
+    <color name="conversation_background">@*common:color/bl</color>
+    <color name="subject_editor_bubble">@*common:color/bl</color>
+    <color name="message_bubble_color_outgoing">@*common:color/bl</color>
+    <color name="message_text_color_outgoing">@*common:color/wh</color>
+</resources>

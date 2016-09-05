@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Contacts.apk's Colors -->
+<!--LAST REVISED ON: 9:28PM EST 10/02/2015-->
+
+<resources>
+	<!--Texts-->
+	<color name="call_method_spinner_item_text_color">@*common:color/wh</color>
+    <color name="credit_banner_text">@*common:color/sk</color>
+	<!--color name="dialpad_primary_text_color">@*common:color/wh</color-->
+	<!--color name="dialpad_secondary_text_color">@*common:color/sk</color-->
+	<!--color name="dialpad_digits_text_color">@*common:color/skwh</color-->
+	<color name="contact_tile_text_color">@*common:color/wh</color>
+	<color name="frequent_contact_text_color">@*common:color/wh</color>
+	<color name="quick_contact_text_color">@*common:color/wh</color>
+	<color name="block_contact_dialog_primary_text_color">@*common:color/wh</color>
+    <color name="block_contact_dialog_secondary_text_color">@*common:color/sk</color>
+	<color name="primary_text_color">@*common:color/wh</color>
+	<color name="secondary_text_color">@*common:color/sk</color>
+	<color name="section_header_text_color">@*common:color/wh</color>
+	<!--color name="dialtacts_primary_text_color">@*common:color/wh</color-->
+    <!--color name="dialtacts_secondary_text_color">@*common:color/sk</color-->
+	<color name="shortcut_overlay_text_background">@*common:color/wh</color>
+	<color name="text_highlight_color">@*common:color/gr</color>
+	<color name="searchbox_text_color">@*common:color/wh</color>
+	<color name="searchbox_hint_text_color">@*common:color/gr</color>
+	<color name="list_item_name_text_color">@*common:color/wh</color>
+	<color name="quickcontact_entry_sub_header_text_color">@*common:color/sk</color>
+	<color name="quickcontact_entry_header_text_color">@*common:color/sk</color>
+	<color name="expanding_entry_card_button_text_color">@*common:color/wh</color>
+	<color name="editor_disabled_text_color">@*common:color/gr</color>
+	
+	
+	
+	
+	<color name="letter_tile_red_color">@*common:color/bl</color>
+    <color name="letter_tile_pink_color">@*common:color/bl</color>
+    <color name="letter_tile_purple_color">@*common:color/bl</color>
+    <color name="letter_tile_deep_purple_color">@*common:color/bl</color>
+    <color name="letter_tile_indigo_color">@*common:color/bl</color>
+    <color name="letter_tile_blue_color">@*common:color/bl</color>
+    <color name="letter_tile_light_blue_color">@*common:color/bl</color>
+    <color name="letter_tile_cyan_color">@*common:color/bl</color>
+    <color name="letter_tile_teal_color">@*common:color/bl</color>
+    <color name="letter_tile_green_color">@*common:color/bl</color>
+    <color name="letter_tile_light_green_color">@*common:color/bl</color>
+    <color name="letter_tile_orange_color">@*common:color/bl</color>
+    <color name="letter_tile_deep_orange_color">@*common:color/bl</color>
+    <color name="letter_tile_grey_color">@*common:color/bl</color>
+    <color name="letter_tile_red_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_pink_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_purple_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_deep_purple_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_indigo_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_blue_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_light_blue_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_cyan_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_teal_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_green_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_light_green_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_orange_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_deep_orange_color_dark">@*common:color/bl</color>
+    <color name="letter_tile_grey_color_dark">@*common:color/bl</color>
+	
+	
+	
+	
+	
+	<!--backgrounds and more-->
+	<color name="editor_icon_color">@*common:color/sk</color>
+	<!--color name="snackbar_background_color">@*common:color/bl</color-->
+	<color name="cardview_light_background">@*common:color/bl</color>
+    <color name="cardview_dark_background">@*common:color/bl</color>
+	<color name="credit_banner_background">@*common:color/bl</color>
+	<!--color name="background_dialpad">@*common:color/bl</color-->
+    <!--color name="background_dialpad_pressed">@*common:color/sk</color-->
+	<color name="holo_list_background_color">@*common:color/bl</color>
+	<color name="searchbox_background_color">@*common:color/bl</color>
+	<color name="background_primary">@*common:color/bl</color>
+	<color name="contact_all_list_background_color">@*common:color/bl</color>
+	<color name="call_subject_history_background">@*common:color/bl</color>
+	<color name="quickcontact_name_detail_background">@*common:color/bl</color>
+	<color name="background_social_updates">@*common:color/bl</color>
+	<!--color name="action_bar_background">@*common:color/bl</color-->
+	<color name="expanding_entry_card_background_color">@*common:color/bl</color>
+	<color name="contact_favorites_list_background_color">@*common:color/bl</color>
+	<color name="group_list_background_color">@*common:color/bl</color>
+	<!--color name="actionbar_background_color">@*common:color/bl</color-->
+	<!--color name="actionbar_background_color_dark">@*common:color/bl</color-->
+	<!--color name="dialer_theme_color">@*common:color/bl</color-->
+    <!--color name="dialer_theme_color_dark">@*common:color/bl</color-->
+	<color name="primary_color">@*common:color/bl</color>
+	<color name="primary_color_dark">@*common:color/bl</color>
+</resources>

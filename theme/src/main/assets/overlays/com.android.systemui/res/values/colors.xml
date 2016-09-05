@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- System Ui Notification center background -->
+    <color name="system_primary_color">@*common:color/bl</color>
+    <!-- System ui header background and volume panel-->
+    <color name="system_secondary_color">@*common:color/bl</color>
+    <!-- System Ui slider color-->
+    <color name="system_accent_color">@*common:color/sk</color>
+    <!-- Quick Settings in Notification drawer -->
+    <color name="qs_tile_text">@*common:color/wh</color>
+
+    <color name="status_bar_traffic_color">@*common:color/sk</color>
+
+    <!-- Misc ROM based tweaks -->
+    <!--  color name="gesture_overlay_background_fill_color">#80000000</color> -->
+    <!-- color name="fab_color">#ff202020</color> -->
+    <!-- color name="floating_action_button_icon_color">#ffffffff</color>  -->
+    <!-- System Ui notification material background -->
+    <color name="notification_material_background_color">@*common:color/bltr</color>
+    <color name="notification_material_background_low_priority_color">@*common:color/bltr</color>
+    <color name="notification_material_background_media_default_color">@*common:color/bltr</color>
+    <color name="notification_material_background_dimmed_color">@*common:color/bltr</color>
+
+
+    <!--color name="primary_text_default_material_dark">@*common:color/wh</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+
+
+    <color name="primary_text_default_material_light">@*common:color/wh</color>
+    <color name="secondary_text_default_material_light">@*common:color/sk</color-->
+
+</resources>

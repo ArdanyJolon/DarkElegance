@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bl">#ff0a0913</color>
+    <color name="bltr">#bf0a0913</color>
+    <color name="sk">#ff4bcefe</color>
+    <color name="sktr">#bf4bcefe</color>
+    <color name="gr">#ff7a7a7a</color>
+    <color name="wh">#ffffffff</color>
+    <color name="whtr">#bfffffff</color>
+    <color name="tr">#00000000</color>
+    <color name="re">#ff8d0000</color>
+    <color name="gre">#ff6f9800</color>
+    <color name="ora">#ffd15900</color>
+    <color name="test1">#ffff4a00</color>
+    <color name="test2">#ffff0084</color>
+    <color name="test3">#ff774300</color>
+    <color name="test4">#ff9bd500</color>
+    <color name="test5">#ff746c37</color>
+    <color name="test6">#ff0014d6</color>
+    <color name="test7">#ff006e97</color>
+    <color name="test8">#ff4806b4</color>
+
+
+
+
+
+</resources>

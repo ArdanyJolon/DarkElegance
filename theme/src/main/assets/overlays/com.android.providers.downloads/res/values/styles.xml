@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Translucent" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+		<item name="android:background">@*common:color/bl</item>
+        <!--item name="android:windowBackground">@*common:color/bl</item-->
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+    </style>
+</resources>

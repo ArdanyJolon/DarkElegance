@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI's Styles-->
+
+<resources>
+
+    <style name="TextAppearance.Material.Notification.Parenthetical" parent="@android:style/TextAppearance.Material.Notification">
+            <item name="android:textColor">@*common:color/whtr</item>
+        <!--item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item-->
+    </style>
+	
+</resources>

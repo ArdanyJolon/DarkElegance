@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<drawable name="divider_horizontal_holo_dark">@color/tr</drawable>   
+    <drawable name="divider_vertical_bright">@color/tr</drawable>
+	<drawable name="divider_vertical_bright_opaque">@color/tr</drawable>
+    <drawable name="divider_vertical_dark">@color/tr</drawable>
+    <drawable name="divider_vertical_dark_opaque">@color/tr</drawable>
+    <drawable name="divider_vertical_holo_dark">@color/tr</drawable>
+    <drawable name="divider_vertical_holo_light">@color/tr</drawable>
+    <drawable name="list_divider_holo_dark">@color/tr</drawable>
+    <drawable name="list_divider_holo_light">@color/tr</drawable>
+    <drawable name="list_divider_horizontal_holo_dark">@color/tr</drawable>
+    <drawable name="list_divider_horizontal_holo_light">@color/tr</drawable>
+    <drawable name="list_section_divider_holo_custom">@color/tr</drawable>
+    <drawable name="list_section_divider_holo_dark">@color/tr</drawable>
+    <drawable name="list_section_divider_holo_light">@color/tr</drawable>
+	<drawable name="dialog_divider_horizontal_holo_dark">@color/tr</drawable>
+    <drawable name="dialog_divider_horizontal_holo_light">@color/tr</drawable>
+    <drawable name="dialog_divider_horizontal_light">@color/tr</drawable>
+    <drawable name="divider_horizontal_bright">@color/tr</drawable>
+    <drawable name="divider_horizontal_bright_opaque">@color/tr</drawable>
+    <drawable name="divider_horizontal_dark">@color/tr</drawable>
+    <drawable name="divider_horizontal_dark_opaque">@color/tr</drawable>
+    <drawable name="divider_horizontal_dim_dark">@color/tr</drawable>
+	<drawable name="divider_horizontal_holo_light">@color/tr</drawable>
+    <drawable name="divider_horizontal_textfield">@color/tr</drawable>
+    <drawable name="divider_vertical">@color/tr</drawable>
+	
+</resources>

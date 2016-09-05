@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="notification_large_icon_width">40.0dip</dimen>
+    <dimen name="notification_large_icon_height">40.0dip</dimen>
+    <dimen name="notification_large_icon_circle_padding">1.0dip</dimen>
+    <dimen name="notification_badge_size">11.0dip</dimen>
+    <dimen name="navigation_bar_height">15.0dip</dimen>
+    <dimen name="navigation_bar_width">15.0dip</dimen>
+    <dimen name="navigation_bar_height_landscape">15.0dip</dimen>
+    <dimen name="notification_text_size">13.0sp</dimen>
+    <dimen name="notification_title_text_size">13.0sp</dimen>
+    <dimen name="notification_subtext_size">10.0sp</dimen>
+    <dimen name="notification_content_image_margin_end">2.0dip</dimen>
+    <dimen name="notification_content_margin_start">10.0dip</dimen>
+</resources>

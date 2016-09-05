@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/bl</color>
+    <color name="primary_dark">@*common:color/bl</color>
+    <color name="accent">@*common:color/sk</color>
+	
+	<color name="eq_holo_bright">@*common:color/sk</color>
+    <color name="eq_holo_blue">@*common:color/sk</color>
+    <color name="eq_holo_dark">@*common:color/sk</color>
+    <color name="eq_red">@*common:color/sk</color>
+    <color name="eq_green">@*common:color/sk</color>
+    <color name="eq_yellow">@*common:color/sk</color>
+	
+	<color name="grid_lines">@*common:color/sk</color>
+    <color name="highlight">@*common:color/sk</color>
+    <color name="lowlight">@*common:color/sk</color>
+	
+	
+	
+	 <color name="action_bar_background">@*common:color/bl</color>
+    <color name="audiofx_background_color">@*common:color/bl</color>
+    <color name="reverb_label_text_color">@*common:color/sk</color>
+    <color name="window_background">@*common:color/bl</color>
+</resources>

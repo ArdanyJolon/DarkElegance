@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector android:constantSize="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:id="@id/off">
+        <nine-patch android:gravity="center" android:src="@drawable/off_button"  />
+    </item>
+
+    <item android:state_checked="true" android:id="@id/on">
+        <nine-patch android:gravity="center" android:src="@drawable/on_button"  />
+    </item>
+    
+   <item android:id="@id/off">
+        <nine-patch android:gravity="center" android:src="@drawable/off_button" />
+    </item>
+    
+    
+    
+    
+   <transition android:toId="@id/on" android:fromId="@id/off">
+        <animation-list>
+            <item android:duration="40">
+                <nine-patch android:gravity="center" android:src="@drawable/off_button"  />
+            </item>
+            <item android:duration="40">
+                <nine-patch android:gravity="center" android:src="@drawable/on_button"  />
+            </item>
+
+        </animation-list>
+    </transition>
+    <transition android:toId="@id/off" android:fromId="@id/on">
+        <animation-list>
+            <item android:duration="40">
+                <nine-patch android:gravity="center" android:src="@drawable/on_button"  />
+            </item>
+
+            <item android:duration="40">
+                <nine-patch android:gravity="center" android:src="@drawable/off_button"  />
+            </item>
+            
+        </animation-list>
+    </transition>
+</animated-selector>

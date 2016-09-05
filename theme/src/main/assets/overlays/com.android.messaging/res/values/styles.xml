@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BugleTheme" parent="@style/Theme.Material.Mms.Custom" />
+    <style name="Theme.Material.Mms.Custom" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@*common:color/bl</item>
+        <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+    </style>
+
+</resources>
