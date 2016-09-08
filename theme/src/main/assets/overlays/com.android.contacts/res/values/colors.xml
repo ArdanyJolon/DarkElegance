@@ -28,38 +28,38 @@
 	<color name="quickcontact_entry_header_text_color">@*common:color/sk</color>
 	<color name="expanding_entry_card_button_text_color">@*common:color/wh</color>
 	<color name="editor_disabled_text_color">@*common:color/gr</color>
-	
-	
-	
-	
-	<color name="letter_tile_red_color">@*common:color/bl</color>
-    <color name="letter_tile_pink_color">@*common:color/bl</color>
-    <color name="letter_tile_purple_color">@*common:color/bl</color>
-    <color name="letter_tile_deep_purple_color">@*common:color/bl</color>
-    <color name="letter_tile_indigo_color">@*common:color/bl</color>
-    <color name="letter_tile_blue_color">@*common:color/bl</color>
-    <color name="letter_tile_light_blue_color">@*common:color/bl</color>
-    <color name="letter_tile_cyan_color">@*common:color/bl</color>
-    <color name="letter_tile_teal_color">@*common:color/bl</color>
-    <color name="letter_tile_green_color">@*common:color/bl</color>
-    <color name="letter_tile_light_green_color">@*common:color/bl</color>
-    <color name="letter_tile_orange_color">@*common:color/bl</color>
-    <color name="letter_tile_deep_orange_color">@*common:color/bl</color>
-    <color name="letter_tile_grey_color">@*common:color/bl</color>
-    <color name="letter_tile_red_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_pink_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_purple_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_deep_purple_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_indigo_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_blue_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_light_blue_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_cyan_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_teal_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_green_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_light_green_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_orange_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_deep_orange_color_dark">@*common:color/bl</color>
-    <color name="letter_tile_grey_color_dark">@*common:color/bl</color>
+
+
+
+
+	<color name="letter_tile_red_color">@*common:color/sk</color>
+	<color name="letter_tile_pink_color">@*common:color/sk</color>
+	<color name="letter_tile_purple_color">@*common:color/sk</color>
+	<color name="letter_tile_deep_purple_color">@*common:color/sk</color>
+	<color name="letter_tile_indigo_color">@*common:color/sk</color>
+	<color name="letter_tile_blue_color">@*common:color/sk</color>
+	<color name="letter_tile_light_blue_color">@*common:color/sk</color>
+	<color name="letter_tile_cyan_color">@*common:color/sk</color>
+	<color name="letter_tile_teal_color">@*common:color/sk</color>
+	<color name="letter_tile_green_color">@*common:color/sk</color>
+	<color name="letter_tile_light_green_color">@*common:color/sk</color>
+	<color name="letter_tile_orange_color">@*common:color/sk</color>
+	<color name="letter_tile_deep_orange_color">@*common:color/sk</color>
+	<color name="letter_tile_grey_color">@*common:color/sk</color>
+	<color name="letter_tile_red_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_pink_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_purple_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_deep_purple_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_indigo_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_blue_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_light_blue_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_cyan_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_teal_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_green_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_light_green_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_orange_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_deep_orange_color_dark">@*common:color/sk</color>
+	<color name="letter_tile_grey_color_dark">@*common:color/sk</color>
 	
 	
 	
