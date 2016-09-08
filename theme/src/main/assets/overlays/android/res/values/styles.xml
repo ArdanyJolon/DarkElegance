@@ -7,7 +7,7 @@
         <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
-        <item name="android:colorForeground">@*common:color/sk</item>
+        <!--item name="android:colorForeground">@*common:color/sk</item-->
     </style>
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
@@ -16,7 +16,7 @@
         <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
-        <item name="android:colorForeground">@*common:color/sk</item>
+        <!--item name="android:colorForeground">@*common:color/sk</item-->
     </style>
 
     <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
