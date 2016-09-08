@@ -7,6 +7,7 @@
         <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:colorForeground">@*common:color/sk</item>
     </style>
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
@@ -15,6 +16,7 @@
         <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:colorForeground">@*common:color/sk</item>
     </style>
 
     <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
@@ -23,23 +25,69 @@
         <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
-        <!--item name="android:colorForeground">@*common:color/test1</item-->
-        <!--item name="android:colorBackground">@*common:color/test2</item-->
         <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
         <item name="android:actionBarWidgetTheme">@null</item>
-        <item name="android:actionBarPopupTheme">@android:style/ThemeOverlay.Material.Light</item>
+        <item name="android:actionBarPopupTheme">@android:style/ThemeOverlay.Material.Dark</item>
         <item name="android:actionBarStyle">@style/Widget.Material.ActionBar.Solid_2</item>
+        <item name="android:fastScrollTextColor">@*common:color/wh</item>
     </style>
 
-    <style name="ThemeOverlay.Material.Light" parent="@android:style/ThemeOverlay.Material.Light">
-        <item name="android:colorForeground">@*common:color/test1</item>
-        <item name="android:colorBackground">@*common:color/test2</item>
+    <style name="ThemeOverlay.Material.Light" parent="@android:style/ThemeOverlay.Material.Dark">
+        <item name="android:colorForeground">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+        <!--item name="android:textColorPrimary">@*common:color/wh</item-->
+        <!--item name="android:textColorSecondary">@*common:color/sk</item-->
+        <!--item name="android:textColorTerciary">@*common:color/sk</item-->
+        <!--item name="android:textColorAlertDialogListItem">@*common:color/wh</item-->
     </style>
 
     <style name="Widget.Material.ActionBar.Solid_2" parent="@android:style/Widget.Material.ActionBar.Solid">
-        <item name="android:background">@*common:color/test5</item>
-        <item name="android:backgroundStacked">@*common:color/test6</item>
-        <item name="android:backgroundSplit">@*common:color/test7</item>
+        <item name="android:background">@*common:color/bl</item>
+        <item name="android:backgroundStacked">@*common:color/bl</item>
+        <item name="android:backgroundSplit">@*common:color/bl</item>
+    </style>
+
+
+    <!--Notificaciones-->
+
+    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">@*common:color/wh</item>
+        <!--item name="android:textSize">08sp</item-->
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Time" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/sk</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/wh</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Line2" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/wh</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info">
+        <item name="android:textColor">@*common:color/wh</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/wh</item>
+    </style>
+
+    <!--Resolver correction-->
+    <style name="Theme.DeviceDefault.Resolver" parent="@style/Theme.Material">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorAccent">@*common:color/sk</item>
+        <item name="android:windowBackground">@*common:color/tr</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
     </style>
 
 
@@ -155,63 +203,8 @@
         <item name="android:textColorSecondary">@*common:color/sk</item>
     </style>
 
-    <style name="Theme.DeviceDefault.Dialog.Alert" parent="@style/Theme.Material.Dialog.Alert">
-        <!--item name="windowTitleStyle">@style/DialogWindowTitle.DeviceDefault</item-->
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-
-    <!--Notificaciones-->
-
-    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
-        <item name="android:textColor">@*common:color/wh</item>
-        <!--item name="android:textSize">08sp</item-->
-    </style>
-
-    <style name="TextAppearance.Material.Notification.Time" parent="@android:style/TextAppearance.Material.Notification">
-        <item name="android:textColor">@*common:color/sk</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-
-    <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification">
-        <item name="android:textColor">@*common:color/wh</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-
-    <style name="TextAppearance.Material.Notification.Line2" parent="@android:style/TextAppearance.Material.Notification">
-        <item name="android:textColor">@*common:color/wh</item>
-    </style>
-	
-	<style name="TextAppearance.Material.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info">
-				<item name="android:textColor">@*common:color/wh</item>
-    </style>
-
-    <style name="TextAppearance.Material.Notification.Emphasis" parent="@style/TextAppearance.Material.Notification">
-        <item name="textColor">@*common:color/wh</item>
-    </style>
-
-    <!--Resolver correction-->
-    <style name="Theme.DeviceDefault.Resolver" parent="@style/Theme.Material.Light">
-        <item name="android:windowBackground">@*common:color/tr</item>
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-        <item name="windowNoTitle">true</item>
-        <item name="windowIsTranslucent">true</item>
-        <item name="windowContentOverlay">@null</item>
-        <item name="backgroundDimEnabled">true</item>
-        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
-        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
-        <item name="windowTranslucentStatus">false</item>
-        <item name="windowTranslucentNavigation">false</item>
-        <item name="colorControlActivated">?colorControlHighlight</item>
-        <item name="windowDrawsSystemBarBackgrounds">false</item>
-    </style>
 
     <!--new test-->
-    <style name="TextAppearance.Toast" parent="@style/TextAppearance">
-        <item name="android:textColor">@*common:color/sk</item>
-    </style>
 
 
 
