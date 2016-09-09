@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!--backgrounds, foregrounds and ripple colors-->
+
 
     <color name="bright_foreground_dark">@*common:color/sk</color>
     <color name="bright_foreground_light">@*common:color/sk</color>
@@ -38,6 +38,8 @@
     <color name="foreground_material_dark">@*common:color/wh</color>
     <color name="foreground_material_light">@*common:color/bl</color>
 
+
+    <color name="Teal_700">@*common:color/sk</color>
     <color name="Teal_800">@*common:color/sk</color>
     <color name="Blue_700">@*common:color/sk</color>
     <color name="Blue_800">@*common:color/sk</color>
@@ -115,7 +117,7 @@
     <color name="user_icon_6">@*common:color/gr</color>
     <color name="user_icon_7">@*common:color/gr</color>
     <color name="user_icon_8">@*common:color/gr</color>
-    <color name="Teal_700">@*common:color/sk</color>
+
 
     <color name="user_icon_default_white">@*common:color/wh</color>
     <color name="external_tile_icon_tint_color">@*common:color/wh</color>
