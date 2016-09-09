@@ -3,7 +3,7 @@
 
     <!--backgrounds, foregrounds and ripple colors-->
 
-    <color name="bright_foreground_dark">@*common:color/wh</color>
+    <color name="bright_foreground_dark">@*common:color/sk</color>
     <color name="bright_foreground_light">@*common:color/sk</color>
     <color name="bright_foreground_dark_disabled">@*common:color/gr</color>
     <color name="bright_foreground_light_disabled">@*common:color/gr</color>
@@ -68,8 +68,7 @@
     <color name="background_material_light">@*common:color/bl</color>
     <color name="background_dark">@*common:color/bl</color>
     <color name="background_light">@*common:color/bl</color>
-    <color name="bright_foreground_dark">@*common:color/sk</color>
-    <color name="bright_foreground_light">@*common:color/sk</color>
+
 
     <!--System-wide changes to colors in Theme.Holo Styles-->
     <color name="holo_blue_light">@*common:color/sk</color>
