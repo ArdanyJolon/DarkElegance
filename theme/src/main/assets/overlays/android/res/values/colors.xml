@@ -79,38 +79,38 @@
     <!--foregrunds-->
     <color name="bright_foreground_dark">@*common:color/sk</color>
     <color name="bright_foreground_light">@*common:color/sk</color>
-    <color name="bright_foreground_dark_disabled">@*common:color/gr</color>
-    <color name="bright_foreground_light_disabled">@*common:color/gr</color>
+    <color name="bright_foreground_dark_disabled">@*common:color/sk</color>
+    <color name="bright_foreground_light_disabled">@*common:color/sk</color>
     <color name="bright_foreground_dark_inverse">@*common:color/wh</color>
     <color name="bright_foreground_light_inverse">@*common:color/sk</color>
-    <color name="dim_foreground_dark">@*common:color/gr</color>
-    <color name="dim_foreground_dark_disabled">@*common:color/gr</color>
-    <color name="dim_foreground_dark_inverse">@*common:color/bl</color>
-    <color name="dim_foreground_dark_inverse_disabled">@*common:color/bl</color>
-    <color name="hint_foreground_dark">@*common:color/gr</color>
-    <color name="dim_foreground_light">@*common:color/bl</color>
-    <color name="dim_foreground_light_disabled">@*common:color/bl</color>
-    <color name="dim_foreground_light_inverse">@*common:color/gr</color>
-    <color name="dim_foreground_light_inverse_disabled">@*common:color/gr</color>
-    <color name="hint_foreground_light">@*common:color/bl</color>
-    <color name="bright_foreground_holo_dark">@*common:color/gr</color>
-    <color name="bright_foreground_holo_light">@*common:color/bl</color>
-    <color name="bright_foreground_disabled_holo_dark">@*common:color/gr</color>
-    <color name="bright_foreground_disabled_holo_light">@*common:color/bl</color>
-    <color name="bright_foreground_inverse_holo_dark">@*common:color/gr</color>
-    <color name="bright_foreground_inverse_holo_light">@*common:color/bl</color>
-    <color name="dim_foreground_holo_dark">@*common:color/gr</color>
-    <color name="dim_foreground_disabled_holo_dark">@*common:color/gr</color>
-    <color name="dim_foreground_inverse_holo_dark">@*common:color/gr</color>
-    <color name="dim_foreground_inverse_disabled_holo_dark">@*common:color/gr</color>
-    <color name="hint_foreground_holo_dark">@*common:color/gr</color>
-    <color name="dim_foreground_holo_light">@*common:color/bl</color>
-    <color name="dim_foreground_disabled_holo_light">@*common:color/bl</color>
-    <color name="dim_foreground_inverse_holo_light">@*common:color/bl</color>
-    <color name="dim_foreground_inverse_disabled_holo_light">@*common:color/bl</color>
-    <color name="hint_foreground_holo_light">@*common:color/bl</color>
+    <color name="dim_foreground_dark">@*common:color/sk</color>
+    <color name="dim_foreground_dark_disabled">@*common:color/sk</color>
+    <color name="dim_foreground_dark_inverse">@*common:color/sk</color>
+    <color name="dim_foreground_dark_inverse_disabled">@*common:color/sk</color>
+    <color name="hint_foreground_dark">@*common:color/sk</color>
+    <color name="dim_foreground_light">@*common:color/sk</color>
+    <color name="dim_foreground_light_disabled">@*common:color/sk</color>
+    <color name="dim_foreground_light_inverse">@*common:color/sk</color>
+    <color name="dim_foreground_light_inverse_disabled">@*common:color/sk</color>
+    <color name="hint_foreground_light">@*common:color/sk</color>
+    <color name="bright_foreground_holo_dark">@*common:color/sk</color>
+    <color name="bright_foreground_holo_light">@*common:color/sk</color>
+    <color name="bright_foreground_disabled_holo_dark">@*common:color/sk</color>
+    <color name="bright_foreground_disabled_holo_light">@*common:color/sk</color>
+    <color name="bright_foreground_inverse_holo_dark">@*common:color/sk</color>
+    <color name="bright_foreground_inverse_holo_light">@*common:color/sk</color>
+    <color name="dim_foreground_holo_dark">@*common:color/sk</color>
+    <color name="dim_foreground_disabled_holo_dark">@*common:color/sk</color>
+    <color name="dim_foreground_inverse_holo_dark">@*common:color/sk</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">@*common:color/sk</color>
+    <color name="hint_foreground_holo_dark">@*common:color/sk</color>
+    <color name="dim_foreground_holo_light">@*common:color/sk</color>
+    <color name="dim_foreground_disabled_holo_light">@*common:color/sk</color>
+    <color name="dim_foreground_inverse_holo_light">@*common:color/sk</color>
+    <color name="dim_foreground_inverse_disabled_holo_light">@*common:color/sk</color>
+    <color name="hint_foreground_holo_light">@*common:color/sk</color>
     <color name="foreground_material_dark">@*common:color/wh</color>
-    <color name="foreground_material_light">@*common:color/bl</color>
+    <color name="foreground_material_light">@*common:color/sk</color>
 
     <!--texts-->
     <color name="primary_text_default_material_dark">@*common:color/wh</color>
@@ -128,15 +128,14 @@
     <color name="strk">@*common:color/sktr</color>
 
 
-
-
-
-
-
-
-
     <!--test-->
-
+    <!--color name="material_grey_900">@*common:color/bl</color>
+    <color name="material_grey_850">#@*common:color/bl</color>
+    <color name="material_grey_800">@*common:color/bl</color>
+    <color name="material_grey_600">@*common:color/bl</color>
+    <color name="material_grey_300">@*common:color/gr</color>
+    <color name="material_grey_100">@*common:color/gr</color>
+    <color name="material_grey_50">@*common:color/gr</color-->
 
 
 
