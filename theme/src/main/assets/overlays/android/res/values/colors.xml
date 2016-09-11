@@ -2,6 +2,10 @@
 <resources>
 
     <!--accents,wide colors and buttons-->
+    <color name="lock_pattern_view_success_color">@*common:color/sk</color>
+
+    <color name="battery_saver_mode_color">@*common:color/sk</color>
+
     <color name="Teal_700">@*common:color/sk</color>
     <color name="Teal_800">@*common:color/sk</color>
     <color name="Blue_700">@*common:color/sk</color>
@@ -37,10 +41,12 @@
 
     <color name="ripple_material_light">@*common:color/sk</color>
     <color name="ripple_material_dark">@*common:color/sk</color>
+    <color name="colorEdgeEffect">@*common:color/sk</color>
 
     <color name="system_notification_accent_color">@*common:color/sk</color>
     <color name="notification_icon_bg_color">@*common:color/sk</color>
     <color name="notification_action_color_filter">@*common:color/sk</color>
+    <color name="notification_material_action_textcolor">@*common:color/sk</color>
 
     <color name="ic_icons">@*common:color/wh</color>
 
