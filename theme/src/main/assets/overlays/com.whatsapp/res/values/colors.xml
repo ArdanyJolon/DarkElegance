@@ -16,8 +16,8 @@
     <color name="dim_foreground_material_light">@*common:color/bl</color>
     <color name="emoji_popup_body">@*common:color/bl</color>
     <color name="emoji_popup_header">@*common:color/bl</color>
-    <color name="foreground_material_dark">@*common:color/bl</color>
-    <color name="foreground_material_light">@*common:color/bl</color>
+    <color name="foreground_material_dark">@*common:color/sk</color>
+    <color name="foreground_material_light">@*common:color/sk</color>
     <color name="full_screen_footer">@*common:color/bl</color>
     <color name="popup_dim">@*common:color/bl</color>
 
@@ -40,7 +40,7 @@
     <color name="primary_material_light">@*common:color/bl</color>
     <color name="primary_dark_voip">@*common:color/bl</color>
     <color name="primary_voip">@*common:color/bl</color>
-    <color name="section_text">@*common:color/bl</color>
+    <color name="section_text">@*common:color/wh</color>
 
     <color name="ripple_material_dark">@*common:color/sk</color>
     <color name="ripple_material_light">@*common:color/sk</color>
@@ -54,6 +54,8 @@
     <color name="secondary_text_default_material_light">@*common:color/sk</color>
     <color name="secondary_text_disabled_material_dark">@*common:color/gr</color>
     <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
+	
+	<color name="notice_text">@*common:color/wh</color>
 
     <color name="switch_thumb_disabled_material_dark">*common:color/sk</color>
     <color name="switch_thumb_disabled_material_light">*common:color/sk</color>
