@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Nova Launcher's Styles-->
+
+<resources>
+	<style name="Nova.Dark" parent="@style/Nova.Base.Light" />
+	<style name="Nova.Light" parent="@style/Nova.Base.Light" />
+</resources>
