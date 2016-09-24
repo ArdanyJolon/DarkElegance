@@ -9,19 +9,40 @@
     <color name="dialtacts_theme_color">@*common:color/bl</color>
     <color name="people_app_theme_color">@*common:color/bl</color>
 
-
+	<color name="glowpad_background_color">@*common:color/bl</color>
+    <color name="background_dialer_light">@*common:color/bl</color>
+    <color name="background_dialer_results">@*common:color/bl</color>
+    <color name="background_primary">@*common:color/bl</color>
     <color name="background_dialer_white">@*common:color/bl</color>
     <color name="background_dialpad">@*common:color/bl</color>
     <color name="background_dialpad_pressed">@*common:color/bl</color>
+    <color name="background_material_dark">@*common:color/bl</color>
+    <color name="background_material_light">@*common:color/bl</color>
+    <color name="background_floating_material_dark">@*common:color/bl</color>
+    <color name="background_floating_material_light">@*common:color/bl</color>
+    <color name="primary_material_dark">@*common:color/bl</color>
+    <color name="primary_material_light">@*common:color/bl</color>
+    <color name="primary_dark_material_dark">@*common:color/bl</color>
+    <color name="primary_dark_material_light">@*common:color/bl</color>
+    <color name="cardview_light_background">@*common:color/bl</color>
+    <color name="cardview_dark_background">@*common:color/bl</color>
+    <color name="searchbox_background_color">@*common:color/bl</color>
+	<color name="design_snackbar_background_color">@*common:color/bl</color>
+	<color name="snackbar_background_color">@*common:color/bl</color>
+	<color name="credit_banner_background">@*common:color/bl</color>
+	<color name="holo_list_background_color">@*common:color/bl</color>
+	<color name="call_subject_history_background">@*common:color/bl</color>
+	<color name="statusbar_background_color">@*common:color/bl</color>
+	<color name="call_stats_bar_background">@*common:color/bl</color>
+	
+    <color name="main_header_separator_color">@*common:color/bl</color>
     <color name="dialpad_separator_line_color">@*common:color/tr</color>
     <color name="incall_dialpad_background">@*common:color/bl</color>
     <color name="incall_background_color">@*common:color/bl</color>
     <color name="incall_banner_secondary_background_color">@*common:color/bl</color>
     <color name="incall_dialpad_background_pressed">@*common:color/sk</color>
-    <color name="background_dialer_light">@*common:color/bl</color>
-    <color name="background_dialer_results">@*common:color/bl</color>
-    <color name="background_primary">@*common:color/bl</color>
     <color name="actionbar_background_color_dark">@*common:color/bl</color>
+	<color name="actionbar_background_color">@*common:color/bl</color>
     <color name="dashboard_background_color">@*common:color/bl</color>
     <color name="contact_all_list_background_color">@*common:color/bl</color>
     <color name="setting_background_color">@*common:color/bl</color>
@@ -31,10 +52,9 @@
     <color name="call_log_expanded_background_color">@*common:color/bl</color>
     <color name="header_background_color">@*common:color/bl</color>
     <color name="search_shortcut_background_color">@*common:color/sk</color>
-    <color name="searchbox_background_color">@*common:color/bl</color>
     <color name="contact_tile_shadow_box_color">@*common:color/bl</color>
 
-    <!--new-->
+    <!--Colors on squares-->
     <color name="letter_tile_default_color">@*common:color/sk</color>
     <color name="letter_tile_red_color">@*common:color/sk</color>
     <color name="letter_tile_pink_color">@*common:color/sk</color>
@@ -69,6 +89,47 @@
     <color name="accent_material_light">@*common:color/sk</color>
     <color name="accent_material_dark">@*common:color/sk</color>
     <color name="button_default_color">@*common:color/bl</color>
-    <color name="header_background_color">@*common:color/bl</color>
+
+    <!--Text colors-->
+	<color name="shortcut_overlay_text_background">@*common:color/sk</color>
+    <color name="primary_text_default_material_light">@*common:color/wh</color>
+    <color name="secondary_text_default_material_light">@*common:color/sk</color>
+    <color name="primary_text_default_material_dark">@*common:color/wh</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+    <color name="primary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="primary_text_disabled_material_dark">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_dark">@*common:color/gr</color>
+    <color name="incall_call_banner_text_color">@*common:color/wh</color>
+    <color name="incall_call_banner_subtext_color">@*common:color/sk</color>
+    <color name="incall_banner_secondary_text_color">@*common:color/wh</color>
+    <color name="incall_action_bar_text_color">@color/incall_call_banner_text_color</color>
+    <color name="incoming_call_display_text">@*common:color/sk</color>
+    <color name="actionbar_text_color">@*common:color/wh</color>
+    <color name="actionbar_unselected_text_color">@*common:color/wh</color>
+    <color name="searchbox_text_color">@*common:color/sk</color>
+    <color name="searchbox_hint_text_color">@*common:color/gr</color>
+    <color name="textColorIconOverlay">@*common:color/wh</color>
+    <color name="textColorIconOverlayShadow">@*common:color/bl</color>
+    <color name="dialtacts_primary_text_color">@*common:color/wh</color>
+    <color name="dialtacts_secondary_text_color">@*common:color/sk</color>
+    <color name="primary_text_color">@*common:color/wh</color>
+    <color name="secondary_text_color">@color/dialtacts_secondary_text_color</color>
+    <color name="section_header_text_color">@*common:color/sk</color>
+    <color name="dialpad_primary_text_color">@*common:color/wh</color>
+    <color name="dialpad_secondary_text_color">@*common:color/sk</color>
+    <color name="dialpad_digits_text_color">@*common:color/wh</color>
+    <color name="contact_tile_text_color">@*common:color/wh</color>
+    <color name="frequent_contact_text_color">@*common:color/wh</color>
+    <color name="quick_contact_text_color">@*common:color/wh</color>
+    <color name="block_contact_dialog_primary_text_color">@*common:color/wh</color>
+    <color name="block_contact_dialog_secondary_text_color">@*common:color/sk</color>
+    <color name="call_log_extras_text_color">@*common:color/test1</color>
+
+    <!--new-->
+
+
+
+
 
 </resources>
