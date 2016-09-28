@@ -13,6 +13,6 @@
     <color name="albumset_background">@*common:color/bl</color>
     <color name="albumset_label_background">@*common:color/bl</color>
     <color name="albumset_label_title">@*common:color/wh</color>
-    <color name="text_toolbar">#ffffffff</color>
+    <color name="text_toolbar">@*common:color/sk</color>
     <color name="wh">@*common:color/wh</color>
 </resources>
