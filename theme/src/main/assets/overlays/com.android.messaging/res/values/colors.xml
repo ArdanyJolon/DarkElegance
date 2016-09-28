@@ -40,4 +40,29 @@
     <color name="subject_editor_bubble">@*common:color/bl</color>
     <color name="message_bubble_color_outgoing">@*common:color/bl</color>
     <color name="message_text_color_outgoing">@*common:color/wh</color>
+
+    <color name="dialpad_primary_text_color">@*common:color/wh</color>
+    <color name="dialpad_secondary_text_color">@*common:color/sk</color>
+    <color name="dialpad_digits_text_color">@*common:color/wh</color>
+
+    <color name="message_recieved">@*common:color/sk</color>
+    <color name="message_sent">@*common:color/wh</color>
+
+    <color name="message_text">@*common:color/wh</color>
+
+    <color name="notification_sender_text">@*common:color/wh</color>
+    <color name="notification_secondary_text">@*common:color/sk</color>
+    <color name="notification_tertiary_text">@*common:color/wh</color>
+    <color name="notification_accent_color">@*common:color/sk</color>
+
+    <color name="message_text_counter_color">@*common:color/sk</color>
+
+    <color name="button_material_dark">@*common:color/sk</color>
+    <color name="button_material_light">@*common:color/sk</color>
+
+    <color name="fab_color">@*common:color/sk</color>
+    <color name="fab_pressed_color">@*common:color/sk</color>
+    <color name="fab_ripple">@*common:color/sk</color>
+    <color name="message_text_color_outgoing">@*common:color/wh</color>
+
 </resources>
