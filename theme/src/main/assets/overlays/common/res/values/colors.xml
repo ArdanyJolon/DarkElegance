@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="bl">#ff0a0913</color>
-    <color name="bltr">#bf0a0913</color>
-    <color name="sk">#ff4bcefe</color>
-    <color name="sktr">#bf4bcefe</color>
-    <color name="gr">#ff7a7a7a</color>
+    <color name="bl">#ff010e14</color>
+    <color name="bltr">#bf010e14</color>
+    <color name="sk">#ff407ead</color>
+    <color name="sktr">#bf407ead</color>
+    <color name="gr">#ff2c4b63</color>
     <color name="wh">#ffffffff</color>
     <color name="whtr">#bfffffff</color>
     <color name="tr">#00000000</color>
