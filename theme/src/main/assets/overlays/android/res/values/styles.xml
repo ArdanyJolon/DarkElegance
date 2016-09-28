@@ -2,7 +2,7 @@
 <resources xmlns="http://schemas.android.com/apk/res/android">
 
     <style name="Theme.Material" parent="@android:style/Theme.Material">
-		<item name="android:windowBackground">@*common:color/tr</item>
+		<item name="android:windowBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
@@ -14,7 +14,7 @@
     </style>
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
-		<item name="android:windowBackground">@*common:color/tr</item>
+		<item name="android:windowBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
@@ -26,7 +26,7 @@
     </style>
 
     <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
-		<item name="android:windowBackground">@*common:color/tr</item>
+		<item name="android:windowBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
