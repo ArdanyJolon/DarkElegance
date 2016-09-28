@@ -2,6 +2,12 @@
 <!--You are editing Nova Launcher's Styles-->
 
 <resources>
-	<style name="Nova.Dark" parent="@style/Nova.Base.Light" />
-	<style name="Nova.Light" parent="@style/Nova.Base.Light" />
+	<style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance">
+		<item name="android:textColor">@*common:color/wh</item>
+		<item name="android:textColorPrimary">@*common:color/wh</item>
+		<item name="android:textColorSecondary">@*common:color/wh</item>
+		<item name="android:textColorHighlight">@*common:color/sk</item>
+		<item name="android:textColorHint">@*common:color/sk</item>
+		<item name="android:textColorLink">@*common:color/sk</item>
+	</style>
 </resources>

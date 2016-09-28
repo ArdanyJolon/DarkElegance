@@ -48,10 +48,10 @@
     <color name="cling_scrim_background">@*common:color/bl</color>
     <color name="container_fastscroll_thumb_inactive_color">@color/theme_color_primary</color>
     <color name="delete_target_hover_tint">@*common:color/re</color>
-    <color name="dim_foreground_disabled_material_dark">@*common:color/sk</color>
-    <color name="dim_foreground_disabled_material_light">@*common:color/sk</color>
-    <color name="dim_foreground_material_dark">@*common:color/sk</color>
-    <color name="dim_foreground_material_light">@*common:color/sk</color>
+    <color name="dim_foreground_disabled_material_dark">@*common:color/sktr</color>
+    <color name="dim_foreground_disabled_material_light">@*common:color/sktr</color>
+    <color name="dim_foreground_material_dark">@*common:color/sktr</color>
+    <color name="dim_foreground_material_light">@*common:color/sktr</color>
     <color name="edit_target_hover_tint">@*common:color/sk</color>
     <color name="focused_background">@*common:color/bl</color>
     <color name="foreground_material_dark">@*common:color/wh</color>
