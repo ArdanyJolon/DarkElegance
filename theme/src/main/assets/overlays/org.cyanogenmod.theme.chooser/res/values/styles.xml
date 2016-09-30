@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeChooserTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:popupMenuStyle">@style/popupMenuStyle</item>
+        <item name="android:textAppearanceLargePopupMenu">?style/TextAppearance.Widget.PopupMenu.Large</item>
+        <item name="android:textAppearanceSmallPopupMenu">?style/TextAppearance.Widget.PopupMenu.Small</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:colorPrimary">@*common:color/bl</item>
+        <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:statusBarColor">@*common:color/tr</item>
+    </style>
+    <style name="popupMenuStyle" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@*common:color/bl</item>
+    </style>
+    <!--style name="TextAppearance.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Widget.PopupMenu.Large">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/popup_menu_text_color</item>
+    </style>
+    <style name="TextAppearance.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Widget.PopupMenu.Small">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/popup_menu_text_color</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="status_bar_component_icon">
+        <item name="android:layout_width">@dimen/status_bar_component_icon_width</item>
+        <item name="android:layout_height">@dimen/status_bar_component_icon_height</item>
+        <item name="android:layout_margin">@dimen/status_bar_component_icon_margin</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+    <style name="component_title">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingStart">2.0dip</item>
+        <item name="android:paddingEnd">2.0dip</item>
+    </style>
+    <style name="component_sound_title">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="card_label">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/component_label_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="audible_name">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/audible_name_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="add_component">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/add_component_text_color</item>
+        <item name="android:text">@string/add_component_text</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="card_none_text">
+        <item name="android:textSize">34.0dip</item>
+        <item name="android:textColor">@color/card_none_text_color</item>
+        <item name="android:text">@string/wallpaper_none</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="apply_overlay_text_style">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/apply_overlay_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="customize_layout_text_style">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/customize_layout_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="tag_style">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/tag_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingStart">4.0dip</item>
+        <item name="android:paddingEnd">4.0dip</item>
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="animated_lock_screen_badge_text_style">
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:textAllCaps">true</item>
+    </style-->
+</resources>
