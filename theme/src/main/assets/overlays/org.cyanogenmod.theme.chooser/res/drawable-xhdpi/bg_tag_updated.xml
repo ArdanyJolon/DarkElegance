@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nine-patch android:src="@drawable/bg_tag_updated_" android:tint="@*common:color/sk" xmlns:android="http://schemas.android.com/apk/res/android" />
