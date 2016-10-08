@@ -9,6 +9,10 @@
     <color name="dialtacts_theme_color">@*common:color/bl</color>
     <color name="people_app_theme_color">@*common:color/bl</color>
 
+
+    <color name="background_dialer_call_log">@*common:color/bl</color>
+    <color name="background_dialer_call_log_list_item">@*common:color/bl</color>
+    <color name="glowpad_incoming_widget_background_tint">@*common:color/bl</color>
 	<color name="glowpad_background_color">@*common:color/bl</color>
     <color name="background_dialer_light">@*common:color/bl</color>
     <color name="background_dialer_results">@*common:color/bl</color>
@@ -89,8 +93,13 @@
     <color name="accent_material_light">@*common:color/sk</color>
     <color name="accent_material_dark">@*common:color/sk</color>
     <color name="button_default_color">@*common:color/wh</color>
+    <color name="incall_accent_color">@*common:color/sk</color>
+    <color name="dialer_red_highlight_color">@*common:color/re</color>
+    <color name="dialer_green_highlight_color">@*common:color/sk</color>
+    <color name="dialer_blue_highlight_color">@*common:color/sk</color>
 
     <!--Text colors-->
+    <color name="dialpad_key_number_color">@*common:color/wh</color>
 	<color name="shortcut_overlay_text_background">@*common:color/sk</color>
     <color name="primary_text_default_material_light">@*common:color/wh</color>
     <color name="secondary_text_default_material_light">@*common:color/sk</color>
@@ -125,7 +134,13 @@
     <color name="block_contact_dialog_primary_text_color">@*common:color/wh</color>
     <color name="block_contact_dialog_secondary_text_color">@*common:color/sk</color>
     <color name="call_log_extras_text_color">@*common:color/test1</color>
-
+    <color name="call_method_spinner_item_text_color">@*common:color/wh</color>
+    <color name="credit_banner_text">@*common:color/wh</color>
+    <color name="videocall_handoff_item_text_color">@*common:color/wh</color>
+    <color name="promo_card_header_text_color">@*common:color/wh</color>
+    <color name="promo_card_details_text_color">@*common:color/wh</color>
+    <color name="undo_dialogue_text_color">@*common:color/wh</color>
+    <color name="dialpad_number_color">@*common:color/wh</color>
     <!--new-->
 
 
