@@ -22,6 +22,16 @@
     <color name="header_background_color">@*common:color/bl</color>
     <color name="lb_basic_card_info_bg_color">@*common:color/bl</color>
 
+    <color name="primary_text_default_material_light">@*common:color/wh</color>
+    <color name="secondary_text_default_material_light">@*common:color/sk</color>
+    <color name="primary_text_default_material_dark">@*common:color/wh</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+    <color name="primary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
+    <color name="primary_text_disabled_material_dark">@*common:color/gr</color>
+    <color name="secondary_text_disabled_material_dark">@*common:color/gr</color>
 
+    <color name="permissions_settings_image_tint_color">@*common:color/sk</color>
+    <color name="permission_icon_tint_color">@*common:color/sk</color>
 
 </resources>
