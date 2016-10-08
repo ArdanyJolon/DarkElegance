@@ -2,7 +2,9 @@
 <resources xmlns="http://schemas.android.com/apk/res/android">
 
     <style name="Theme.Material" parent="@android:style/Theme.Material">
-		<item name="android:windowBackground">@*common:color/bl</item>
+        <!--item name="dialogBackground">@*common:color/bl</item-->
+        <!--item name="dialogBorder">@*common:color/common_color_alpha</item-->
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
@@ -14,7 +16,7 @@
     </style>
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
-		<item name="android:windowBackground">@*common:color/bl</item>
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
@@ -26,7 +28,7 @@
     </style>
 
     <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
-		<item name="android:windowBackground">@*common:color/bl</item>
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <!--item name="android:colorAccent">@*common:color/sk</item-->
@@ -100,20 +102,98 @@
     </style>
 
 
-    <!--Color text on dialogs-->
+    <!--Dialogs-->
     <style name="Theme.Material.Settings.Dialog" parent="@android:style/Theme.Material.Dialog">
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
     </style>
     <style name="Theme.Material.Settings.Dialog.Alert" parent="@android:style/Theme.Material.Dialog.Alert">
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
     </style>
 
-    <style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.Material">
+    <style name="Theme.DeviceDefault.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar" parent="@android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.MinWidth" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+
+    <style name="Theme.DeviceDefault.Light.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar" parent="@android:style/Theme.Material.DialogWhenLarge.NoActionBar">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Light.Dialog.Presentation" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+
+    <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.DialogWhenLarge.NoActionBar" parent="@android:style/Theme.Material.DialogWhenLarge.NoActionBar">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+
+    <!--new test-->
+    <!--Power dialog thematization-->
+    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorTertiary">@*common:color/sk</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+        <!--item name="dialogBackground">@*common:color/bl</item-->
+    </style>
+
+
+    <!--style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.Material">
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/sk</item>
     </style>
+
+
 
     <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:textColorPrimary">@*common:color/wh</item>
@@ -121,37 +201,6 @@
     </style>
 
     <style name="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Dialog.MinWidth">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar" parent="@android:style/Theme.Material.Dialog.NoActionBar">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.MinWidth" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-
-    <style name="Theme.DeviceDefault.Light.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar" parent="@android:style/Theme.Material.DialogWhenLarge.NoActionBar">
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/sk</item>
     </style>
@@ -184,40 +233,7 @@
     <style name="Theme.DeviceDefault.Light.SearchBar" parent="@android:style/Theme.Material.Panel">
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.Dialog.Presentation" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-
-    <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@android:style/Theme.Material.Dialog">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.DialogWhenLarge.NoActionBar" parent="@android:style/Theme.Material.DialogWhenLarge.NoActionBar">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material">
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
-    </style>
-
-
-    <!--new test-->
-
-
-
-
+    </style-->
 
 
 </resources>
