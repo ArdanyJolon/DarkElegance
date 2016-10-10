@@ -176,8 +176,6 @@
         <item name="android:colorBackground">@*common:color/bl</item>
     </style>
 
-
-    <!--new test-->
     <!--Power dialog thematization-->
     <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material">
         <item name="android:textColorPrimary">@*common:color/wh</item>
@@ -187,6 +185,17 @@
         <!--item name="dialogBackground">@*common:color/bl</item-->
     </style>
 
+    <!--new test-->
+
+
+    <!--style name="Widget.Button" parent="@android:style/Widget">
+        <item name="textAppearance">?android:textAppearanceSmallInverse</item>
+        <item name="textColor">@*common:color/wh</item>
+        <item name="gravity">center</item>
+        <item name="background">?android:drawable/btn_default</item>
+        <item name="focusable">true</item>
+        <item name="clickable">true</item>
+    </style-->
 
     <!--style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.Material">
         <item name="android:textColorPrimary">@*common:color/wh</item>
