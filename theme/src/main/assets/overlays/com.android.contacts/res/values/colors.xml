@@ -60,8 +60,9 @@
 	<color name="letter_tile_orange_color_dark">@*common:color/sk</color>
 	<color name="letter_tile_deep_orange_color_dark">@*common:color/sk</color>
 	<color name="letter_tile_grey_color_dark">@*common:color/sk</color>
-	
-	
+
+	<color name="letter_tile_default_color">@*common:color/sk</color>
+	<color name="letter_tile_font_color">@*common:color/wh</color>
 	
 	
 	
