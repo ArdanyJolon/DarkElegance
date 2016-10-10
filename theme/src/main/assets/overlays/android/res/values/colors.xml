@@ -62,10 +62,10 @@
     <color name="user_icon_default_white">@*common:color/wh</color>
     <color name="external_tile_icon_tint_color">@*common:color/wh</color>
 
-    <color name="button_material_dark">@*common:color/bl</color>
-    <color name="button_material_light">@*common:color/bl</color>
+    <color name="button_material_dark">?android:colorBackground</color>
+    <color name="button_material_light">?android:colorBackground</color>
 
-    <color name="floating_action_button_icon_color">@*common:color/bl</color>
+    <color name="floating_action_button_icon_color">?android:colorBackground</color>
 
     <!--backgrounds-->
     <color name="background_material_dark">@*common:color/bl</color>
