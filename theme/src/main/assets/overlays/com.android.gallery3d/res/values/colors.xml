@@ -15,4 +15,8 @@
     <color name="albumset_label_title">@*common:color/wh</color>
     <color name="text_toolbar">@*common:color/sk</color>
     <color name="wh">@*common:color/wh</color>
+    <color name="popup_background">@*common:color/bl</color>
+    <color name="background_main_toolbar">@*common:color/bl</color>
+    <color name="toolbar_separation_line">@*common:colot/tr</color>
+    <color name="background_toolbar">@*common:color/bl</color>
 </resources>
