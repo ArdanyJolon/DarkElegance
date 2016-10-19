@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat" parent="?android:style/Theme">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorPrimaryDisableOnly">@*common:color/gr</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorPrimaryInverse">@*common:color/wh</item>
+        <item name="android:textColorSecondaryInverse">@*common:color/sk</item>
+        <item name="android:textColorHintInverse">@*common:color/gr</item>
+        <item name="android:windowBackground">@*common:color/bl</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorHighlight">@*common:color/sk</item>
+        <item name="android:textColorHint">@*common:color/gr</item>
+        <item name="android:textColorLink">@*common:color/sk</item>
+        <item name="android:colorForegroundInverse">@*common:color/wh</item>
+        <item name="android:textColorTertiary">@*common:color/ora</item>
+        <item name="android:textColorTertiaryInverse">@*common:color/gr</item>
+	</style>
+    <style name="Platform.AppCompat.Light" parent="?android:style/Theme.Light">
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorPrimaryDisableOnly">@*common:color/gr</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorPrimaryInverse">@*common:color/wh</item>
+        <item name="android:textColorSecondaryInverse">@*common:color/sk</item>
+        <item name="android:textColorHintInverse">@*common:color/gr</item>
+        <item name="android:windowBackground">@*common:color/bl</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorHighlight">@*common:color/sk</item>
+        <item name="android:textColorHint">@*common:color/gr</item>
+        <item name="android:textColorLink">@*common:color/sk</item>
+        <item name="android:colorForegroundInverse">@*common:color/wh</item>
+        <item name="android:textColorTertiary">@*common:color/ora</item>
+        <item name="android:textColorTertiaryInverse">@*common:color/gr</item>
+    </style>
+   
+   
+</resources>
