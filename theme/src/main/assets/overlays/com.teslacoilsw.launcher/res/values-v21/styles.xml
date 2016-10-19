@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Nova Launcher's Styles-->
+
+<resources>
+	
+	<style name="Platform.AppCompat" parent="?android:style/Theme">
+        <item name="android:textColor">@*common:color/wh</item>
+		<item name="android:textColorPrimary">@*common:color/wh</item>
+		<item name="android:textColorSecondary">@*common:color/wh</item>
+		<item name="android:textColorHighlight">@*common:color/sk</item>
+		<item name="android:textColorHint">@*common:color/sk</item>
+		<item name="android:textColorLink">@*common:color/sk</item>
+        <item name="android:textColorSecondary">@*common:color/wh</item>
+        <item name="android:textColorPrimaryInverse">@*common:color/wh</item>
+        <item name="android:textColorSecondaryInverse">@*common:color/wh</item>
+        <item name="android:textColorTertiary">@*common:color/wh</item>
+        <item name="android:textColorTertiaryInverse">@*common:color/wh</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+        <item name="android:windowBackground">@*common:color/bl</item>
+    </style>
+	
+	<style name="Platform.AppCompat.Light" parent="?android:style/Theme.Light">
+        <item name="android:textColor">@*common:color/wh</item>
+		<item name="android:textColorPrimary">@*common:color/wh</item>
+		<item name="android:textColorSecondary">@*common:color/wh</item>
+		<item name="android:textColorHighlight">@*common:color/sk</item>
+		<item name="android:textColorHint">@*common:color/sk</item>
+		<item name="android:textColorLink">@*common:color/sk</item>
+        <item name="android:textColorSecondary">@*common:color/wh</item>
+        <item name="android:textColorPrimaryInverse">@*common:color/wh</item>
+        <item name="android:textColorSecondaryInverse">@*common:color/wh</item>
+        <item name="android:textColorTertiary">@*common:color/wh</item>
+        <item name="android:textColorTertiaryInverse">@*common:color/wh</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+        <item name="android:windowBackground">@*common:color/bl</item>
+	</style>
+	
+	
+	<!--style name="Base.Widget.AppCompat.SearchView" parent="?android:style/Widget">
+        <item name="layout">?layout/abc_search_view</item>
+        <item name="closeIcon">?drawable/abc_ic_clear_material</item>
+        <item name="goIcon">?drawable/abc_ic_go_search_api_material</item>
+        <item name="searchIcon">?drawable/abc_ic_search_api_material</item>
+        <item name="searchHintIcon">?drawable/abc_ic_search_api_material</item>
+        <item name="voiceIcon">?drawable/abc_ic_voice_search_api_material</item>
+        <item name="commitIcon">?drawable/abc_ic_commit_search_api_mtrl_alpha</item>
+        <item name="suggestionRowLayout">?layout/abc_search_dropdown_item_icons_2line</item>
+        <item name="queryBackground">@*common:color/bl</item>
+        <item name="submitBackground">@*common:color/bl</item>
+    </style-->
+</resources>
