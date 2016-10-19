@@ -135,13 +135,7 @@
 
 
     <!--test-->
-    <!--color name="material_grey_900">@*common:color/bl</color>
-    <color name="material_grey_850">#@*common:color/bl</color>
-    <color name="material_grey_800">@*common:color/bl</color>
-    <color name="material_grey_600">@*common:color/bl</color>
-    <color name="material_grey_300">@*common:color/gr</color>
-    <color name="material_grey_100">@*common:color/gr</color>
-    <color name="material_grey_50">@*common:color/gr</color-->
+   
 
 
 

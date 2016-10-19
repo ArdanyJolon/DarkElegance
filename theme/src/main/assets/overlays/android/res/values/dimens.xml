@@ -8,9 +8,9 @@
     <dimen name="navigation_bar_height">15.0dip</dimen>
     <dimen name="navigation_bar_width">15.0dip</dimen>
     <dimen name="navigation_bar_height_landscape">15.0dip</dimen>
-    <dimen name="notification_text_size">13.0sp</dimen>
-    <dimen name="notification_title_text_size">13.0sp</dimen>
+    <dimen name="notification_text_size">10.0sp</dimen>
+    <dimen name="notification_title_text_size">15.0sp</dimen>
     <dimen name="notification_subtext_size">10.0sp</dimen>
-    <dimen name="notification_content_image_margin_end">2.0dip</dimen>
+    <dimen name="notification_content_image_margin_end">5.0dip</dimen>
     <dimen name="notification_content_margin_start">10.0dip</dimen>
 </resources>
