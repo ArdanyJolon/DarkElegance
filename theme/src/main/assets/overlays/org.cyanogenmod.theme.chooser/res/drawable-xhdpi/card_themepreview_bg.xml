@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list
-    xmlns:android="http://schemas.android.com/apk/res/android" >
-<item android:left="4.0dip" 
-      android:right="4.0dip">
-<shape>
-    <solid android:color="@*common:color/bltr" />
-</shape></item>
-</layer-list>
+<nine-patch android:src="@drawable/card_themepreview_bg__" android:tint="@*common:color/bl" xmlns:android="http://schemas.android.com/apk/res/android" />

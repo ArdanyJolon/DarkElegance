@@ -9,8 +9,8 @@
     <color name="apply_button_progress_color">@*common:color/sk</color>
     <color name="apply_button_default_color">@*common:color/gr</color>
     <color name="apply_button_pressed_color">@*common:color/wh</color>
-    <color name="font_preview_color">@*common:color/wh</color>
-    <color name="font_preview_shadow_color">@*common:color/wh</color>
+    <color name="font_preview_color">@*common:color/bl</color>
+    <color name="font_preview_shadow_color">@*common:color/bl</color>
     <color name="component_selection_background">@*common:color/bl</color>
     <color name="component_divider_color">@*common:color/bl</color>
     <color name="component_label_color">@*common:color/wh</color>

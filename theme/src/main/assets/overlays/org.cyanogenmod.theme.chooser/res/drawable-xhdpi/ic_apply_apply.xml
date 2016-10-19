@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bitmap
-android:src="@drawable/ic_apply_apply_"
+android:src="@drawable/ic_apply_apply__"
 android:tint="@*common:color/sk" xmlns:android="http://schemas.android.com/apk/res/android" />

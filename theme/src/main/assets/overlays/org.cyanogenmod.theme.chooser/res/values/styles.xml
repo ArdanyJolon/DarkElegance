@@ -13,6 +13,7 @@
         <item name="android:windowTranslucentNavigation">true</item>
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/tr</item>
     </style>
     <style name="popupMenuStyle" parent="@android:style/Widget.PopupMenu">
@@ -25,6 +26,7 @@
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
     </style>
 
 
