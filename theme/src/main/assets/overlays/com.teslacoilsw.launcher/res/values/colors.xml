@@ -17,8 +17,8 @@
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="all_apps_grid_section_text_color">@*common:color/sk</color>
-    <color name="all_apps_icon_keyboard_focus_color">@*common:color/wh</color>
-    <color name="all_apps_search_market_button_focused_bg_color">@*common:color/sk</color>
+    <color name="all_apps_icon_keyboard_focus_color">@*common:color/bl</color>
+    <color name="all_apps_search_market_button_focused_bg_color">@*common:color/bl</color>
     <color name="appsearch_darkfg_header">@*common:color/bl</color>
     <color name="appsearch_darkfg_hint">@*common:color/bl</color>
     <color name="appsearch_darkfg_icon">@*common:color/sk</color>
