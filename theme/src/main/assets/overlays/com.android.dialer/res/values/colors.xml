@@ -144,7 +144,7 @@
     <!--new-->
 
 
-
+    <color name="windowBackground">@*common:color/bl</color>
 
 
 </resources>
