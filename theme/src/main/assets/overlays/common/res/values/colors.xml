@@ -5,9 +5,10 @@
     <color name="bltr">#bf050505</color>
     <color name="sk">#ff505050</color>
     <color name="sktr">#bf505050</color>
-    <color name="gr">#ff2c4b63</color>
-    <color name="wh">#ff999999</color>
-    <color name="whtr">#bf999999</color>
+    <color name="gr">#ff161616</color>
+    <color name="wh">#ffffffff</color>
+    <color name="whtr">#bfffffff</color>
+    <color name="whdfl">#bf999999</color>
     <color name="tr">#00000000</color>
     <color name="re">#ff8d0000</color>
     <color name="gre">#ff6f9800</color>
