@@ -91,4 +91,5 @@
     <!--color name="dialer_theme_color_dark">@*common:color/bl</color-->
 	<color name="primary_color">@*common:color/bl</color>
 	<color name="primary_color_dark">@*common:color/bl</color>
+	<color name="windowBackground">@*common:color/bl</color>
 </resources>
