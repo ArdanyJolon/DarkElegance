@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+
+ <style name="Theme.XposedInstaller.Dark" parent="?style/Theme.XposedInstaller.Dark.Base">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="background_card">@*common:color/bl</item>
+        <item name="background_card_pressed">@*common:color/bl</item>
+        <item name="download_status_installed">@*common:color/sk</item>
+        <item name="list_download_item_color">@*common:color/test2</item>
+        <item name="pager_tab_strip_bg">@*common:color/bl</item>
+        <item name="sticky_header_background">@*common:color/bl</item>
+        <item name="text_important">@*common:color/sk</item>
+    </style>
+    <style name="Theme.XposedInstaller.Dark.Black" parent="?style/Theme.XposedInstaller.Dark">
+        <item name="android:windowBackground">@*common:color/bl</item>
+        <item name="background_card">@*common:color/bl</item>
+        <item name="background_card_pressed">@*common:color/bl</item>
+        <item name="list_download_item_color">@*common:color/sk</item>
+    </style>
+    <style name="Theme.XposedInstaller.Light" parent="?style/Theme.XposedInstaller.Light.Base">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="background_card">@*common:color/bl</item>
+        <item name="background_card_pressed">@*common:color/bl</item>
+        <item name="download_status_installed">@*common:color/sk</item>
+        <item name="list_download_item_color">@*common:color/test2</item>
+        <item name="pager_tab_strip_bg">@*common:color/bl</item>
+        <item name="sticky_header_background">@*common:color/bl</item>
+        <item name="text_important">@*common:color/sk</item>
+    </style>
+
+
+    <style name="Theme.XposedInstaller.Dark.Base" parent="?style/Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.XposedInstaller.Light.Base" parent="?style/Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionModeOverlay">true</item>
+        <item name="colorPrimary">@color/colorPrimaryLight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+</resources>
