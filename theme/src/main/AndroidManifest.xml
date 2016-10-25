@@ -11,11 +11,6 @@
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
     <meta-data android:name="org.cyanogenmod.theme.email" android:value="@string/theme_email" />
 
-    <!--application android:hasCode="false"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/theme_name"/-->
-
-
     <application android:hasCode="false" android:icon="@mipmap/ic_launcher" android:label="@string/theme_name">
         <meta-data android:name="arcus.support" android:value="true"/>
     </application>
