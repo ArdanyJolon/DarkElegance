@@ -45,11 +45,6 @@
 	
 	<style name="Base.V7.Theme.AppCompat" parent="@style/Platform.AppCompat">
         <item name="android:panelBackground">@android:color/transparent</item>
-        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
-        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
-        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
-        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Widget.Button</item>
-        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
         <item name="isLightTheme">false</item>
         <item name="windowActionBar">true</item>
         <item name="windowNoTitle">false</item>
@@ -59,23 +54,11 @@
         <item name="windowFixedHeightMinor">0.0dip</item>
         <item name="windowFixedWidthMinor">0.0dip</item>
         <item name="windowFixedHeightMajor">0.0dip</item>
-        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
-        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
-        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
-        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
-        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
         <item name="actionBarPopupTheme">@null</item>
-        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
-        <item name="actionBarSplitStyle">?actionBarStyle</item>
-        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <!--item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item-->
         <item name="actionBarWidgetTheme">@null</item>
-        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
-        <item name="actionBarDivider">?dividerVertical</item>
         <item name="actionBarItemBackground">?selectableItemBackgroundBorderless</item>
-        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
         <item name="actionMenuTextColor">?android:textColorPrimaryDisableOnly</item>
-        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
-        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?colorPrimaryDark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_material</item>
