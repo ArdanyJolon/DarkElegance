@@ -9,5 +9,8 @@
     <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.Material.Light.Panel">
         <item name="android:backgroundDimEnabled">true</item>
     </style>
+    <!--style name="GrantPermissions" parent="?android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar">
+        <item name="android:colorAccent">@*common:color/sk</item>
+    </style-->
 
 </resources>
