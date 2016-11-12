@@ -16,6 +16,8 @@
     <color name="pad_button_ripple_color">@*common:color/sk</color>
     <color name="pad_button_advanced_ripple_color">@*common:color/wh</color>
 
+    <color name="white">@*common:color/test2</color>
+
     <!--color name="primary_text_default_material_light">@*common:color/bl</color>
     <color name="secondary_text_default_material_light">@*common:color/bl</color>
     <color name="primary_text_disabled_material_light">@*common:color/gr</color>
