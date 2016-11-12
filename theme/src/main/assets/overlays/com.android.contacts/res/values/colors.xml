@@ -3,6 +3,8 @@
 <!--LAST REVISED ON: 9:28PM EST 10/02/2015-->
 
 <resources>
+	<color name="white">@*common:color/test2</color>
+
 	<!--Texts-->
 	<color name="call_method_spinner_item_text_color">@*common:color/wh</color>
     <color name="credit_banner_text">@*common:color/sk</color>
