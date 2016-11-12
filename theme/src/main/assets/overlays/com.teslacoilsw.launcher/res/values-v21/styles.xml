@@ -3,7 +3,7 @@
 
 <resources>
 	
-	<style name="Platform.AppCompat" parent="?android:style/Theme.Material">
+	<style name="Platform.AppCompat" parent="@android:style/Theme.Material">
         <item name="android:textColor">@*common:color/wh</item>
 		<item name="android:textColorPrimary">@*common:color/wh</item>
 		<item name="android:textColorSecondary">@*common:color/wh</item>
@@ -19,7 +19,7 @@
         <item name="android:windowBackground">@*common:color/bl</item>
     </style>
 	
-	<style name="Platform.AppCompat.Light" parent="?android:style/Theme.Material">
+	<style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
         <item name="android:textColor">@*common:color/wh</item>
 		<item name="android:textColorPrimary">@*common:color/wh</item>
 		<item name="android:textColorSecondary">@*common:color/wh</item>
