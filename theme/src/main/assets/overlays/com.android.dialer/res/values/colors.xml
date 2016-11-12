@@ -146,5 +146,6 @@
 
     <color name="windowBackground">@*common:color/bl</color>
 
+    <color name="white">@*common:color/test2</color>
 
 </resources>
