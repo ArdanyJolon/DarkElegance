@@ -119,10 +119,10 @@
     <color name="foreground_material_light">@*common:color/sk</color>
 
     <!--texts-->
-    <color name="primary_text_default_material_dark">@*common:color/wh</color>
-    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
-    <color name="primary_text_default_material_light">@*common:color/bl</color>
-    <color name="secondary_text_default_material_light">@*common:color/sk</color>
+    <!--color name="primary_text_default_material_dark">@*common:color/wh</color-->
+    <!--color name="secondary_text_default_material_dark">@*common:color/sk</color-->
+    <!--color name="primary_text_default_material_light">@*common:color/bl</color-->
+    <!--color name="secondary_text_default_material_light">@*common:color/sk</color-->
 
 
     <!--colors-->
