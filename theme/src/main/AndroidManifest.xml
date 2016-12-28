@@ -5,7 +5,7 @@
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="23" />
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
