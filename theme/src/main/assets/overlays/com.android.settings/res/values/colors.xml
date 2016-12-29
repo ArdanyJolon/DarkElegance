@@ -9,5 +9,6 @@
     <color name="dashboard_background_color">@*common:color/tr</color>
     <color name="icon_accent">@*common:color/wh</color>
     <color name="qs_tile_tint_color">@*common:color/wh</color>
+    <color name="white">@*common:color/wh</color>
 
 </resources>
