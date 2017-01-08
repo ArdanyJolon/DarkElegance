@@ -5,10 +5,10 @@
     <!--color name="theme_accent">@*common:color/sk</color-->
     <color name="switchbar_background_color">@*common:color/bl</color>
     <color name="switch_accent_color">@*common:color/sk</color>
-    <color name="dashboard_category_background_color">@*common:color/tr</color>
-    <color name="dashboard_background_color">@*common:color/tr</color>
-    <color name="icon_accent">@*common:color/wh</color>
+    <color name="dashboard_category_background_color">@*common:color/bl</color>
+    <color name="dashboard_background_color">@*common:color/bl</color>
+    <color name="icon_accent">@*common:color/gr</color>
     <color name="qs_tile_tint_color">@*common:color/wh</color>
-    <color name="white">@*common:color/wh</color>
+    <color name="white">@*common:color/bl</color>
 
 </resources>
