@@ -10,7 +10,7 @@
         <item name="android:textColorSecondary">@*common:color/wh</item>
         <item name="android:textColorTertiary">@*common:color/wh</item>
         <item name="android:background">@*common:color/bl</item>
-        <item name="colorAccent">@*common:color/sk</item>
+        <!--item name="colorAccent">@*common:color/sk</item-->
         <item name="colorEdgeEffect">@*common:color/sk</item>
     </style>
 	<!--style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Wallpaper">
