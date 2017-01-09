@@ -30,8 +30,8 @@
     <color name="holo_purple">@*common:color/sk</color>
     <color name="holo_blue_bright">@*common:color/sk</color>
 
-    <color name="highlighted_text_material_light">@*common:color/sk</color>
-    <color name="highlighted_text_material_dark">@*common:color/sk</color>
+    <!--color name="highlighted_text_material_light">@*common:color/bl</color-->
+    <!--color name="highlighted_text_material_dark">@*common:color/wh</color-->
 
     <color name="material_deep_teal_200">@*common:color/sk</color>
     <color name="material_deep_teal_500">@*common:color/sk</color>
@@ -46,9 +46,9 @@
     <color name="system_notification_accent_color">@*common:color/sk</color>
     <color name="notification_icon_bg_color">@*common:color/sk</color>
     <color name="notification_action_color_filter">@*common:color/sk</color>
-    <color name="notification_material_action_textcolor">@*common:color/sk</color>
+    <color name="notification_material_action_textcolor">@*common:color/wh</color>
 
-    <color name="ic_icons">@*common:color/wh</color>
+    <color name="ic_icons">@*common:color/sk</color>
 
     <color name="user_icon_1">@*common:color/sk</color>
     <color name="user_icon_2">@*common:color/sk</color>
@@ -59,8 +59,8 @@
     <color name="user_icon_7">@*common:color/sk</color>
     <color name="user_icon_8">@*common:color/sk</color>
 
-    <color name="user_icon_default_white">@*common:color/wh</color>
-    <color name="external_tile_icon_tint_color">@*common:color/wh</color>
+    <color name="user_icon_default_white">@*common:color/sk</color>
+    <color name="external_tile_icon_tint_color">@*common:color/sk</color>
 
     <color name="button_material_dark">?android:colorBackground</color>
     <color name="button_material_light">?android:colorBackground</color>
