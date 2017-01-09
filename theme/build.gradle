@@ -8,7 +8,7 @@ android {
         applicationId "ardjlon.theme.darkelegance"
         minSdkVersion 22
         targetSdkVersion 23
-        versionCode 1001
+        versionCode 1002
         versionName "1.0.1"
     }
     buildTypes {
