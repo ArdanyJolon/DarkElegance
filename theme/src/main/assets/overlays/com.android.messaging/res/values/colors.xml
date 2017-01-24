@@ -2,6 +2,7 @@
 <resources>
 
 	<!--backgrounds-->
+    <color name="windowBackground">@*common:color/bl</color>
 	<color name="background">@*common:color/bl</color>
     <color name="conversation_background">@*common:color/bl</color>
     <color name="archived_conversation_action_bar_background_color">@*common:color/bl</color>
@@ -9,39 +10,39 @@
 	
 	<!--texts colors-->
 	<color name="text_highlight_color">@*common:color/gr</color>
-	<color name="primary_text_color">@*common:color/wh</color>
-    <color name="secondary_text_color">@*common:color/sk</color>
-    <color name="section_header_text_color">@*common:color/wh</color>
-    <color name="primary_text_default_material_light">@*common:color/wh</color>
-    <color name="secondary_text_default_material_light">@*common:color/sk</color>
-    <color name="primary_text_default_material_dark">@*common:color/wh</color>
-    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+	<color name="primary_text_color">@*common:color/wht</color>
+    <color name="secondary_text_color">@*common:color/wht</color>
+    <color name="section_header_text_color">@*common:color/wht</color>
+    <color name="primary_text_default_material_light">@*common:color/wht</color>
+    <color name="secondary_text_default_material_light">@*common:color/wht</color>
+    <color name="primary_text_default_material_dark">@*common:color/wht</color>
+    <color name="secondary_text_default_material_dark">@*common:color/wht</color>
     <color name="primary_text_disabled_material_light">@*common:color/gr</color>
     <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
     <color name="primary_text_disabled_material_dark">@*common:color/gr</color>
     <color name="secondary_text_disabled_material_dark">@*common:color/gr</color>
-    <color name="compose_message_edit_text">@*common:color/wh</color>
-    <color name="compose_message_text_counter">@*common:color/sk</color>
-    <color name="compose_message_text_color">@*common:color/wh</color>
+    <color name="compose_message_edit_text">@*common:color/wht</color>
+    <color name="compose_message_text_counter">@*common:color/wht</color>
+    <color name="compose_message_text_color">@*common:color/wht</color>
     <color name="compose_message_sent_bubble_color">@*common:color/bl</color>
     <color name="subject_editor_bubble">@*common:color/bl</color>
     <color name="message_bubble_color_outgoing">@*common:color/bl</color>
-    <color name="message_text_color_outgoing">@*common:color/wh</color>
-    <color name="dialpad_primary_text_color">@*common:color/wh</color>
-    <color name="dialpad_secondary_text_color">@*common:color/sk</color>
-    <color name="dialpad_digits_text_color">@*common:color/wh</color>
-	<color name="dialtacts_primary_text_color">@*common:color/wh</color>
-    <color name="dialtacts_secondary_text_color">@*common:color/sk</color>
-	<color name="notification_sender_text">@*common:color/wh</color>
-    <color name="notification_secondary_text">@*common:color/sk</color>
-    <color name="notification_tertiary_text">@*common:color/wh</color>
-    <color name="notification_accent_color">@*common:color/sk</color>
-    <color name="message_text_counter_color">@*common:color/sk</color>
-	<color name="message_recieved">@*common:color/sk</color>
-    <color name="message_sent">@*common:color/wh</color>
-    <color name="message_text">@*common:color/wh</color>
-	<color name="compose_message_send_color">@*common:color/wh</color>
-	<color name="unblock_item_text_color">@*common:color/wh</color>
+    <color name="message_text_color_outgoing">@*common:color/wht</color>
+    <color name="dialpad_primary_text_color">@*common:color/wht</color>
+    <color name="dialpad_secondary_text_color">@*common:color/wht</color>
+    <color name="dialpad_digits_text_color">@*common:color/wht</color>
+	<color name="dialtacts_primary_text_color">@*common:color/wht</color>
+    <color name="dialtacts_secondary_text_color">@*common:color/wht</color>
+	<color name="notification_sender_text">@*common:color/wht</color>
+    <color name="notification_secondary_text">@*common:color/wht</color>
+    <color name="notification_tertiary_text">@*common:color/wht</color>
+    <color name="notification_accent_color">@*common:color/wht</color>
+    <color name="message_text_counter_color">@*common:color/wht</color>
+	<color name="message_recieved">@*common:color/wht</color>
+    <color name="message_sent">@*common:color/wht</color>
+    <color name="message_text">@*common:color/wht</color>
+	<color name="compose_message_send_color">@*common:color/wht</color>
+	<color name="unblock_item_text_color">@*common:color/wht</color>
 	
 	<!--accents colors-->
     <color name="compose_notification_bar_background">@*common:color/bl</color>
