@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<style name="Theme.GalleryBase" parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:textColor">@*common:color/wh</item>
+        <item name="android:textColor">@*common:color/wht</item>
         <!--item name="android:colorBackground">@*common:color/bl</item>-->
         <!--item name="android:textColor">@*common:color/wh</item-->
     </style>
