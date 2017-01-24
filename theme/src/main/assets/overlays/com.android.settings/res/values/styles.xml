@@ -6,20 +6,20 @@
         <item name="android:windowBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/wh</item>
-        <item name="android:textColorTertiary">@*common:color/wh</item>
-        <item name="android:background">@*common:color/bl</item>
+        <item name="android:textColorPrimary">@*common:color/wht</item>
+        <item name="android:textColorSecondary">@*common:color/wht</item>
+        <item name="android:textColorTertiary">@*common:color/wht</item>
+        <!--item name="android:background">@*common:color/bl</item-->
         <!--item name="colorAccent">@*common:color/sk</item-->
-        <item name="colorEdgeEffect">@*common:color/sk</item>
     </style>
-	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Wallpaper">
+	<!--style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Wallpaper">
         <item name="android:windowBackground">@*common:color/bl</item>
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
         <item name="android:textColorPrimary">@*common:color/wh</item>
         <item name="android:textColorSecondary">@*common:color/wh</item>
-   </style>
+        <item name="colorEdgeEffect">@*common:color/sk</item>
+   </style-->
 
    <!--style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
        <item name="android:colorBackground">@*common:color/bl</item>

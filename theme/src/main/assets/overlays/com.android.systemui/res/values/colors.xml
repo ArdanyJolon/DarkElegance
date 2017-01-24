@@ -8,7 +8,7 @@
     <!-- System Ui slider color-->
     <color name="system_accent_color">@*common:color/sk</color>
     <!-- Quick Settings in Notification drawer -->
-    <color name="qs_tile_text">@*common:color/wh</color>
+    <color name="qs_tile_text">@*common:color/wht</color>
 
     <color name="status_bar_traffic_color">@*common:color/sk</color>
 
