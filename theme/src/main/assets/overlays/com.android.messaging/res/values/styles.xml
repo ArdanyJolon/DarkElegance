@@ -12,4 +12,8 @@
         <!--item name="android:background">@*common:color/bl</item-->
     </style>
 
+    <style name="BugleTheme.ConversationListActivity" parent="@style/BugleTheme">
+        <item name="android:windowBackground">@*common:color/bl</item>
+    </style>
+
 </resources>
