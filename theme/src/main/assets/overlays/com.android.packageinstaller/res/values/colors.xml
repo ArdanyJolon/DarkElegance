@@ -10,22 +10,15 @@
 	<color name="success">@*common:color/sk</color>
 	<color name="fail">@*common:color/re</color>
 
-    <!--new-->
-    <!--color name="foreground_material_dark">@android:color/white</color>
-    <color name="foreground_material_light">@android:color/black</color>
-    <color name="ripple_material_dark">#42ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
-    <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <color name="accent_material_dark">@color/material_deep_teal_200</color-->
     <color name="grant_permissions_app_color">@*common:color/sk</color>
     <color name="grant_permissions_progress_color">@*common:color/sk</color>
     <color name="header_background_color">@*common:color/bl</color>
     <color name="lb_basic_card_info_bg_color">@*common:color/bl</color>
 
-    <color name="primary_text_default_material_light">@*common:color/wh</color>
-    <color name="secondary_text_default_material_light">@*common:color/sk</color>
-    <color name="primary_text_default_material_dark">@*common:color/wh</color>
-    <color name="secondary_text_default_material_dark">@*common:color/sk</color>
+    <color name="primary_text_default_material_light">@*common:color/wht</color>
+    <color name="secondary_text_default_material_light">@*common:color/wht</color>
+    <color name="primary_text_default_material_dark">@*common:color/wht</color>
+    <color name="secondary_text_default_material_dark">@*common:color/wht</color>
     <color name="primary_text_disabled_material_light">@*common:color/gr</color>
     <color name="secondary_text_disabled_material_light">@*common:color/gr</color>
     <color name="primary_text_disabled_material_dark">@*common:color/gr</color>
